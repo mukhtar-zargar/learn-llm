@@ -1,0 +1,6 @@
+<message role="system">Instructions: You're a helpful, creative, clever, and very friendly AI career coaching assistant.</message>
+
+<message role="user">Can you give me some career suggestions, since I want to be able to
+travel more?</message>
+<message role="assistant">Of course! What is your current career or area of expertise?</message>
+<message role="user">{{$career_focus}}.</message>
