@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Google",
+    "title": "Software Engineer",
+    "rank": "Mid-Level"
+  },
+  {
+    "company": "Microsoft",
+    "title": "Software Engineer II",
+    "rank": "Mid-Level"
+  },
+  {
+    "company": "Apple",
+    "title": "iOS Developer",
+    "rank": "Senior"
+  },
+  {
+    "company": "Amazon",
+    "title": "SDE I",
+    "rank": "Entry-Level"
+  },
+  {
+    "company": "Meta",
+    "title": "Backend Engineer",
+    "rank": "Senior"
+  },
+  {
+    "company": "Netflix",
+    "title": "Full Stack Engineer",
+    "rank": "Senior"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "CUDA Developer",
+    "rank": "Mid-Level"
+  },
+  {
+    "company": "Adobe",
+    "title": "Frontend Developer",
+    "rank": "Mid-Level"
+  },
+  {
+    "company": "Salesforce",
+    "title": "Platform Developer",
+    "rank": "Entry-Level"
+  },
+  {
+    "company": "Oracle",
+    "title": "Java Developer",
+    "rank": "Senior"
+  }
+]
